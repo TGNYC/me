@@ -2,4 +2,4 @@
 
 | Movie           | Release/About   | Date Completed |
 |:---------------:|:---------------:|:--------------:|
-| Howl            | 2010; Poem Trial| 06/14/16       |
+| Howl            | 2010; [Poem Trial](http://www.imdb.com/title/tt1049402/)| 06/14/16       |
