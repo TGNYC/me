@@ -12,3 +12,4 @@ This is a list of all the books I have read starting now (May 31, 2016).
 | Force and Freedom | Arthur Ripstein | 07/15/16 |
 | Twelfth Night | William Shakespeare | 07/19/16 |
 | A Short History of Nearly Everything | Bill Bryson | 07/27/16 |
+| A Raisin in the Sun | Lorraine Hansberry | 07/28/16 |
