@@ -13,3 +13,4 @@ This is a list of all the books I have read starting now (May 31, 2016).
 | Twelfth Night | William Shakespeare | 07/19/16 |
 | A Short History of Nearly Everything | Bill Bryson | 07/27/16 |
 | A Raisin in the Sun | Lorraine Hansberry | 07/28/16 |
+| Kitchen | Banana Yoshimoto | 08/05/16 |
