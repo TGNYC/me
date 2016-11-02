@@ -16,4 +16,5 @@ This is a list of all the books I have read starting now (May 31, 2016).
 | Kitchen | Banana Yoshimoto | 08/05/16 |
 | Harry Potter and the Cursed Child | J. K. Rowling, Jack Thorne, and John Tiffany | 08/08/16 |
 | Into the Wild | Jon Krakauer | 08/08/16 | 
+| The Scarlet Letter | Nathanial Hawthorne | 10/24/16 |
 
