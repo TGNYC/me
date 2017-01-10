@@ -17,4 +17,7 @@ This is a list of all the books I have read starting now (May 31, 2016).
 | Harry Potter and the Cursed Child | J. K. Rowling, Jack Thorne, and John Tiffany | 08/08/16 |
 | Into the Wild | Jon Krakauer | 08/08/16 | 
 | The Scarlet Letter | Nathaniel Hawthorne | 10/24/16 |
+| Into the Wild | Jon Krakauer | 11/21/16 |
+| The Monkey Wrench Gang | Edward Abbey | 01/02/17 |
+| Founding Brothers: The Revolutionary Generation | Joseph J. Ellis | 1/10/17 |  
 
