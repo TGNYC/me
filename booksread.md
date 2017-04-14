@@ -20,4 +20,6 @@ This is a list of all the books I have read starting now (May 31, 2016).
 | Into the Wild | Jon Krakauer | 11/21/16 |
 | The Monkey Wrench Gang | Edward Abbey | 01/02/17 |
 | Founding Brothers: The Revolutionary Generation | Joseph J. Ellis | 1/10/17 |  
-
+| The Adventures of Huckleberry Finn | Mark Twain | idk |
+| The Nix | Nathan Hill | idk |
+| The Underground Railroad | Colson Whitehead | 04/12/17 |
