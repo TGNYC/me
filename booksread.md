@@ -23,3 +23,5 @@ This is a list of all the books I have read starting now (May 31, 2016).
 | The Adventures of Huckleberry Finn | Mark Twain | idk |
 | The Nix | Nathan Hill | idk |
 | The Underground Railroad | Colson Whitehead | 04/12/17 |
+| The Great Gatsby | F. Scott Fitzgerald | idk |
+| Their Eyes Were Watching God | Zora Neale Hurston | idk |
