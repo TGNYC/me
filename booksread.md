@@ -66,3 +66,4 @@ This is a list of all the books I have read starting now (May 31, 2016).
 | Interpreter of Maladies                                      | Khumpa Lahiri                                | 03/06/20       |
 | A Gentleman in Moscow                                        | Amor Towles                                  | 03/25/20       |
 | The Four Agreements: A Practical Guide to Personal Freedom   | Don Miguel Ruiz                              | 04/12/20       |
+| Stand Out of Our Light                                       | James Williams                               | 04/30/20       |
