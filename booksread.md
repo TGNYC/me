@@ -69,3 +69,5 @@ This is a list of all the books I have read starting now (May 31, 2016).
 | The Four Agreements: A Practical Guide to Personal Freedom | Don Miguel Ruiz                          | 04/12/20       |
 | Stand Out of Our Light                   | James Williams                           | 04/30/20       |
 | Lolita                                   | Vladimir Nabokov                         | 05/28/20       |
+| This America: The Case for the Nation    | Jill Lepore                              | 06/30/20       |
+| Are Prisons Obsolete?                    | Angela Davis                             | 07/26/20       |
