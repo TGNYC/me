@@ -63,8 +63,8 @@ This is a list of all the books I have read starting now (May 31, 2016).
 | How to Win Friends and Influence People  | Dale Carnegie                            | 12/28/19       |
 | Think and Grow Rich                      | Napoleon Hill                            | 01/14/20       |
 | The Girl with the Dragon Tattoo          | Stieg Larsson                            | 02/12/20       |
-| The Namesake                             | Khumpa Lahiri                            | 02/29/20       |
-| Interpreter of Maladies                  | Khumpa Lahiri                            | 03/06/20       |
+| The Namesake                             | Jhumpa Lahiri                            | 02/29/20       |
+| Interpreter of Maladies                  | Jhumpa Lahiri                            | 03/06/20       |
 | A Gentleman in Moscow                    | Amor Towles                              | 03/25/20       |
 | The Four Agreements: A Practical Guide to Personal Freedom | Don Miguel Ruiz                          | 04/12/20       |
 | Stand Out of Our Light                   | James Williams                           | 04/30/20       |
